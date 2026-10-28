@@ -27,8 +27,8 @@ calls `noTone()` when it is released.
 See `doorbell.ino`.
 
 ## Output
-![Circuit] <img width="835" height="679" alt="image" src="https://github.com/user-attachments/assets/1b2fba60-ab72-4462-b4a8-eeebc2b36b69" />
+Circuit: <img width="835" height="679" alt="image" src="https://github.com/user-attachments/assets/1b2fba60-ab72-4462-b4a8-eeebc2b36b69" />
 
-![Pressed] <img width="866" height="683" alt="image" src="https://github.com/user-attachments/assets/2a0c07c5-46ea-4138-ad8f-33165e2beb9b" />
+Pressed: <img width="866" height="683" alt="image" src="https://github.com/user-attachments/assets/2a0c07c5-46ea-4138-ad8f-33165e2beb9b" />
 
-![Released] <img width="938" height="670" alt="image" src="https://github.com/user-attachments/assets/0a9cf938-c253-4428-98b8-b8c4ea5e0b96" />
+Released: <img width="938" height="670" alt="image" src="https://github.com/user-attachments/assets/0a9cf938-c253-4428-98b8-b8c4ea5e0b96" />
